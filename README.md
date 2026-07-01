@@ -1,13 +1,13 @@
 # 💻 CNX-JobHub | Premier IT Job Board Platform
 
-[cite_start]แพลตฟอร์มหางานสายไอที (Job Portal) ที่ออกแบบมาเพื่อ Tech Community ในเชียงใหม่โดยเฉพาะ เน้นความเร็วและประสิทธิภาพสูง [cite: 56]
+แพลตฟอร์มหางานสายไอที (Job Portal) ที่ออกแบบมาเพื่อ Tech Community ในเชียงใหม่โดยเฉพาะ เน้นความเร็วและประสิทธิภาพสูง [cite: 56]
 
 ## ✨ ฟีเจอร์เด่น
-- [cite_start]**Lightning-Fast CRUD:** ระบบจัดการข้อมูล (เพิ่ม/ลบ/แก้ไข) ทำงานผ่าน LocalStorage ทำให้หน้าเว็บไม่ต้องรีโหลด (Zero lag) [cite: 57]
-- [cite_start]**Smart Data Filtering:** อัลกอริทึมกรองข้อมูลแบบเรียลไทม์ ผู้ใช้สามารถค้นหางานตามเงื่อนไขเงินเดือนและทักษะได้อย่างรวดเร็ว [cite: 58]
+- Lightning-Fast CRUD:** ระบบจัดการข้อมูล (เพิ่ม/ลบ/แก้ไข) ทำงานผ่าน LocalStorage ทำให้หน้าเว็บไม่ต้องรีโหลด (Zero lag) [cite: 57]
+- Smart Data Filtering:** อัลกอริทึมกรองข้อมูลแบบเรียลไทม์ ผู้ใช้สามารถค้นหางานตามเงื่อนไขเงินเดือนและทักษะได้อย่างรวดเร็ว [cite: 58]
 
 ## 🛠️ Tech Stack
-- [cite_start]**Framework:** Next.js [cite: 55]
-- [cite_start]**Language:** TypeScript [cite: 55]
-- [cite_start]**Styling:** Tailwind CSS [cite: 55]
-- [cite_start]**State Management:** LocalStorage [cite: 55]
+- Framework:** Next.js [cite: 55]
+- Language:** TypeScript [cite: 55]
+- Styling:** Tailwind CSS [cite: 55]
+- State Management:** LocalStorage [cite: 55]
